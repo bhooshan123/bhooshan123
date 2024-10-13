@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhooshan</h1>
-<h3 align="center">A enthusiastic prefinal year student from India</h3>
+<h3 align="center">A enthusiastic final year student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhooshan123&label=Profile%20views&color=0e75b6&style=flat" alt="bhooshan123" /> </p>
 
